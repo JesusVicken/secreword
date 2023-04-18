@@ -1,0 +1,25 @@
+.start h1 {
+  font-size: 3.5em;
+}
+
+.start p {
+  margin-bottom: 2em;
+  color: #ecfa00;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+form {
+  margin-top: 100px;
+}
+
+label {
+  margin-left: 10px;
+}
+button {
+  margin-left: 10px;
+}
